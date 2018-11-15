@@ -1,5 +1,9 @@
 #include "calculator.h"
-
+/rhis 1st com
+/comment 2
+/coms
+/resdactinf
+/dddd
 int Calculator::Add (int a, int b)
 {
 <<<<<<< HEAD
